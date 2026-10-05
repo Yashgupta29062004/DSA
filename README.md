@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashgupta29062004/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yashgupta29062004/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashgupta29062004/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -80,5 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashgupta29062004/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
