@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashgupta29062004/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashgupta29062004/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Yashgupta29062004/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3665-twisted-mirror-path-count](https://github.com/Yashgupta29062004/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yashgupta29062004/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yashgupta29062004/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashgupta29062004/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Yashgupta29062004/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashgupta29062004/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Yashgupta29062004/DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Bracket Sequences
 |  |
 | ------- |
