@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Yashgupta29062004/DSA/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashgupta29062004/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yashgupta29062004/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yashgupta29062004/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Yashgupta29062004/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3665-twisted-mirror-path-count](https://github.com/Yashgupta29062004/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashgupta29062004/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Yashgupta29062004/DSA/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashgupta29062004/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yashgupta29062004/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yashgupta29062004/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Yashgupta29062004/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashgupta29062004/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashgupta29062004/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Yashgupta29062004/DSA/tree/master/2747-count-zero-request-servers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yashgupta29062004/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
