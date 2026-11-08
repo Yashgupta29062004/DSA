@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashgupta29062004/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashgupta29062004/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yashgupta29062004/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/Yashgupta29062004/DSA/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yashgupta29062004/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Yashgupta29062004/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashgupta29062004/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yashgupta29062004/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashgupta29062004/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Yashgupta29062004/DSA/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
